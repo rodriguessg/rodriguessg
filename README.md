@@ -11,7 +11,7 @@
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodriguessg&theme=vue-dark&show_icons=true&hide_border=true&layout=compact"/>
 <p> 
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=rodriguessg&theme=vue-dark&show_icons=true&hide_border=true&count_private=true  alt="rodriguessg"/>
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=rodriguessg&theme=vue-dark&show_icons=true&hide_border=false&count_private=true"/>
   </p>
 
 <h3 align="left">Languages and Tools:</h3>
