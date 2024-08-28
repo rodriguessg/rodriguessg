@@ -12,7 +12,7 @@
 </p>
 <div>
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=rodriguessg&theme=vue-dark&show_icons=true&hide_border=true&count_private=true"/>
-    <img align="center" width="400"height="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodriguessg&theme=vue-dark&show_icons=true&hide_border=true&layout=compact"/>
+    <img align="center" width="420"height="420" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodriguessg&theme=vue-dark&show_icons=true&hide_border=true&layout=compact"/>
  </div>
 <table>
 <h3 align="left">Languages and Tools:</h3>
