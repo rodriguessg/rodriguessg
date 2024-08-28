@@ -11,7 +11,7 @@
   <a href="https://www.linkedin.com/in/rodriguessg/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="https://web.whatsapp.com/"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
 </div>
-<div align="center">
+<div align="center" style="display: inline-block">
     <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=rodriguessg&theme=vue-dark&show_icons=true&hide_border=true&count_private=true"/>
     <img align="center" width="420"height="420" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodriguessg&theme=vue-dark&show_icons=true&hide_border=true&layout=compact"/></p>
  </div>
