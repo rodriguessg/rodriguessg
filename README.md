@@ -4,12 +4,13 @@
 
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-
-<a href="https://linkedin.com/in/rodriguessg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rodriguessg" height="30" width="40" /></a>
-<a href="https://instagram.com/_rodriguessg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_rodriguessg" height="30" width="40" /></a>
-<a href = "https://mail.google.com/mail/u/0/?ogbl#inbox"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" alt="_rodriguessg"  height="40" width="60"></a>
-</p>
+<div>
+  <a href="https://www.instagram.com/_rodriguessg/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+ <a href="https://discord.com/channels/@me" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+  <a href = "https://mail.google.com/mail/u/0/?ogbl#inbox"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/rodriguessg/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://web.whatsapp.com/"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
+</div>
 <div>
     <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=rodriguessg&theme=vue-dark&show_icons=true&hide_border=true&count_private=true"/>
     <img align="center" width="420"height="420" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodriguessg&theme=vue-dark&show_icons=true&hide_border=true&layout=compact"/></p>
