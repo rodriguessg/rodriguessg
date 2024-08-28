@@ -11,7 +11,7 @@
 
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rodriguessg&show_icons=true&locale=en&layout=compact" alt="rodriguessg" />
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karanalpe&layout=compact"/>
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=rodriguessg&theme=vue-dark&show_icons=true&hide_border=true&count_private=true"/>
   </p>
 
 <h3 align="left">Languages and Tools:</h3>
