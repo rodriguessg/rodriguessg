@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Gabriel Rodrigues</h1>
-<h3 align="center">developer Full Stack</h3>
+<h3 align="center">Developer Full Stack</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
