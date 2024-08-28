@@ -1,13 +1,14 @@
 
 <h1 align="center">Hi 👋, I'm Gabriel Rodrigues</h1>
 <h3 align="center">Developer Full Stack</h3>
-<tr></tr>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+    <tr
 <a href="https://linkedin.com/in/rodriguessg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rodriguessg" height="30" width="40" /></a>
 <a href="https://instagram.com/_rodriguessg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_rodriguessg" height="30" width="40" /></a>
-<a href = "https://mail.google.com/mail/u/0/?ogbl#inbox"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" alt="_rodriguessg"  height="40" width="60"></a>
+<a href = "https://mail.google.com/mail/u/0/?ogbl#inbox"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" alt="_rodriguessg"  height="40" width="60"></a>></tr>
 </p>
 <div>
 <img align="center" margin-left="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodriguessg&theme=vue-dark&show_icons=true&hide_border=true&layout=compact"/>
